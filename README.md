@@ -17,5 +17,5 @@ I'm currently studying gene regulatory networks underlying congenital birth defe
 - [Personal Website](https://zohebkhan1.github.io)
 - [maSigPro-clustering](https://github.com/ZohebKhan1/maSigPro-clustering)
 - [differentiation-comparison](https://github.com/ZohebKhan1/differentiation-comparison)
-- [transcription-factor-classification](https://github.com/ZohebKhan1/transcription-factor-classification)
+- [transcription-factor-classification](https://github.com/ZohebKhan1/tfclassify)
 - [temporal-transcription-factor-identification](https://github.com/ZohebKhan1/temporal-transcription-factor-identification)
