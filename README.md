@@ -11,11 +11,3 @@ I'm currently studying gene regulatory networks underlying congenital birth defe
 
 **Languages:** R, Python, Bash, Nextflow
 **Omics:** RNA-seq, scRNA-seq, ChIP-seq, ATAC-seq, Micro-C
-
-## Links
-
-- [Personal Website](https://zohebkhan1.github.io)
-- [maSigPro-clustering](https://github.com/ZohebKhan1/maSigPro-clustering)
-- [differentiation-comparison](https://github.com/ZohebKhan1/differentiation-comparison)
-- [transcription-factor-classification](https://github.com/ZohebKhan1/tfclassify)
-- [temporal-transcription-factor-identification](https://github.com/ZohebKhan1/temporal-transcription-factor-identification)
