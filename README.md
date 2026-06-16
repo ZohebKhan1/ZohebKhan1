@@ -1,4 +1,6 @@
-I'm currently studying gene regulatory networks underlying congenital birth defects and progenitor maintenance/differentiation. I'm also studying the factors regulating neural crest lineage specification.
+I'm currently working as a bioinformatician at the University of Chicago in the Moskowitz Lab. My current projects involve bioinformatic analysis gene regulatory networks underlying congenital birth defects in Trisomy 21. I'm also studying Hedgehog signaling-dependent transcription factors governing fate specification in cardiomyocyte and neuronal iSPC differentiations.
+
+I am an incoming PhD student at NYU (Fall 2026).
 
 ## Research Interests
 
