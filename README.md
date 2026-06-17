@@ -2,6 +2,8 @@ I'm currently working as a bioinformatician at the University of Chicago in the 
 
 I am an incoming PhD student at NYU (Fall 2026).
 
+https://zohebkhan1.github.io/
+
 ## Research Interests
 
 - Transcriptomics & Epigenetics
