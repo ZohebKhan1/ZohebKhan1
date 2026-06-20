@@ -2,10 +2,6 @@ I'm a bioinformatician in the Moskowitz Lab at the University of Chicago, where 
 
 I am an incoming Biology PhD student at New York University (NYU) beginning in Fall 2026.
 
-Portfolio: https://zohebkhan1.github.io/
-
-Google Scholar: https://scholar.google.com/citations?user=2gFbtqIAAAAJ&hl=en
-
 Current projects:
 - [Bulk differentiation scoring](https://github.com/ZohebKhan1/Bulk-differentiation-scoring)
 - [Bioconductor docs](https://github.com/ZohebKhan1/bioconductor-docs)
@@ -32,3 +28,4 @@ Current projects:
 **Email:** zohebkhan600@gmail.com
 
 **Website:** https://zohebkhan1.github.io/
+**Google Scholar:** https://scholar.google.com/citations?user=2gFbtqIAAAAJ&hl=en
