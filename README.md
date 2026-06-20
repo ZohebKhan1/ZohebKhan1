@@ -22,3 +22,13 @@ Current projects:
 **Languages:** R, Python, Bash, Nextflow
 
 **Omics:** RNA-seq, scRNA-seq, ChIP-seq, ATAC-seq, Micro-C
+
+## Contact
+
+**Author:** Zoheb Khan
+
+**Affiliation:** Bioinformatician @ Moskowitz Lab at the University of Chicago Department of Pathology, Pediatrics, and Human Genetics
+
+**Email:** zohebkhan600@gmail.com
+
+**Website:** https://zohebkhan1.github.io/
