@@ -1,17 +1,22 @@
-I'm currently working as a bioinformatician at the University of Chicago in the Moskowitz Lab. My current projects involve bioinformatic analysis gene regulatory networks underlying congenital birth defects in Trisomy 21. I'm also studying Hedgehog signaling-dependent transcription factors governing fate specification in cardiomyocyte and neuronal iSPC differentiations.
+I'm a bioinformatician in the Moskowitz Lab at the University of Chicago, where my research focuses on computational biology, developmental genomics, and gene regulatory networks. My current projects involve bioinformatic analyses of regulatory programs underlying congenital defects in Trisomy 21. I also study Hedgehog signaling-dependent transcription factors that govern fate specification in cardiomyocyte and neuronal iPSC differentiation models.
 
-I am an incoming PhD student at NYU (Fall 2026).
+I am an incoming Biology PhD student at New York University (NYU) beginning in Fall 2026.
 
-https://zohebkhan1.github.io/
+Portfolio: https://zohebkhan1.github.io/
+
+Current projects:
+- Bulk differentiation scoring: https://github.com/ZohebKhan1/Bulk-differentiation-scoring
+- Bioconductor docs: https://github.com/ZohebKhan1/bioconductor-docs
 
 ## Research Interests
 
-- Transcriptomics & Epigenetics
-- Developmental Biology
-- Gene Regulatory Networks
-- Single-cell & Bulk RNA-seq Analysis
+- Transcriptomics & epigenetics
+- Developmental biology
+- Gene regulatory networks
+- Single-cell & bulk RNA-seq analysis
 
 ## Technical Skills
 
 **Languages:** R, Python, Bash, Nextflow
+
 **Omics:** RNA-seq, scRNA-seq, ChIP-seq, ATAC-seq, Micro-C
